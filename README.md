@@ -23,4 +23,4 @@
 
 ## 📫 Contact
 - Roblox: [lananaest](https://www.roblox.com/users/2434039837/profile)
-- Discord: @midteen (240587315829800960)
+- Discord: @rotcel (240587315829800960)
