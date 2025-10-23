@@ -1,4 +1,4 @@
-# 👋 こんにちは-gwan croski-くん
+# 👋 こんにちは-gwan, croski-くん
 
 -  19 years old
 -  Timezone: GMT+3 (EST)
