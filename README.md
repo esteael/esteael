@@ -1,6 +1,6 @@
 # 👋 こんにちは-gwan, croski-くん
 
--  19 years old
+-  20 years old
 -  Timezone: GMT+3 (EST)
 -  Proficient in Javascript, PHP, Python, Lua
 -  Over 8+ years of Graphic Design Experience
